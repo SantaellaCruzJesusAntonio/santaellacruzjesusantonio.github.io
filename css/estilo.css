@@ -1,0 +1,84 @@
+
+html{
+background-image:url("../Imagenes/nieve.jpg");
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+overflow: scroll;
+}
+body{
+  width: 65%;
+  margin: 0px auto;
+  overflow:hidden;
+  background-color: black;
+}
+h1{text-align: center;
+vertical-align: middle;
+font-style: italic;
+font-family: cursive;
+font-size: 20px;
+color:  white;
+}
+h2, h3{text-align: center;
+vertical-align: middle;
+font-style: italic;
+font-family: cursive;
+font-size: 20px;
+color:  white;}
+
+#uno{
+  background-image: url("../Imagenes/titulo.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:auto;
+  float:left;
+  width: 100%;
+  margin: 0px auto;;
+}
+ul{
+  float:left;
+  font-family: cursive;
+  color:  #99CC99;}
+  .li{
+    color: white;
+  }
+p{
+  width: 95%;
+  margin: auto;
+  color: #A5F2F3;
+  text-align: justify;
+
+}
+#contenido{
+  width: 90%;
+  margin: 0px auto;
+}
+#botella{
+  width: 25%;
+  margin: auto;
+  float: left;
+}
+#miopia{
+  width: 30%;
+  margin: auto;
+  float: left;
+}
+#boris{
+  width: 7%;
+  margin: auto;
+  float: left;
+}
+#bechamel{
+  width: 8%;
+  margin: auto;
+  float: right;
+}
+a{
+  color:white;
+}
+#truman{
+  width: 50%;
+  margin: 0px auto;
+ float: right;
+}
