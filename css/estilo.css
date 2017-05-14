@@ -6,6 +6,13 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 overflow: scroll;
 }
+#otro{
+background-image:url("../Imagenes/fondo.jpg");
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+overflow: scroll;
+}
 body{
   width: 65%;
   margin: 0px auto;
@@ -81,4 +88,20 @@ a{
   width: 50%;
   margin: 0px auto;
  float: right;
+}
+#cuervo{
+  width: 25%;
+  margin: auto;
+  float: left;;
+}
+#cuervo1{
+  width: 20%;
+  margin: auto;
+  float: right;
+}
+#poe{
+
+    width: 50%;
+    margin: 0px auto;
+   float: right;
 }
